@@ -1,0 +1,7 @@
+C:\Diag Tools\PaperWorks_GetScanResultsXML\PaperWorks_GetScanResultsXML\bin\Debug\PaperWorks_GetScanResultsXML.exe.config
+C:\Diag Tools\PaperWorks_GetScanResultsXML\PaperWorks_GetScanResultsXML\bin\Debug\PaperWorks_GetScanResultsXML.exe
+C:\Diag Tools\PaperWorks_GetScanResultsXML\PaperWorks_GetScanResultsXML\bin\Debug\PaperWorks_GetScanResultsXML.pdb
+C:\Diag Tools\PaperWorks_GetScanResultsXML\PaperWorks_GetScanResultsXML\obj\Debug\PaperWorks_GetScanResultsXML.csprojAssemblyReference.cache
+C:\Diag Tools\PaperWorks_GetScanResultsXML\PaperWorks_GetScanResultsXML\obj\Debug\PaperWorks_GetScanResultsXML.csproj.CoreCompileInputs.cache
+C:\Diag Tools\PaperWorks_GetScanResultsXML\PaperWorks_GetScanResultsXML\obj\Debug\PaperWorks_GetScanResultsXML.exe
+C:\Diag Tools\PaperWorks_GetScanResultsXML\PaperWorks_GetScanResultsXML\obj\Debug\PaperWorks_GetScanResultsXML.pdb
